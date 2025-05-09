@@ -1,0 +1,70 @@
+# IDE配置
+.idea/
+.vscode/
+*.iml
+
+# 编译输出
+target/
+dist/
+build/
+
+# 依赖目录
+node_modules/
+
+# 环境配置
+.env
+.env.local
+.env.*.local
+
+# 日志文件
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 测试覆盖率报告
+coverage/
+
+# 临时文件
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# Spring Boot
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Vue.js
+.DS_Store
+node_modules
+/dist
+
+# 本地环境文件
+.env.local
+.env.*.local
+
+# 日志文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 编辑器目录和文件
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
