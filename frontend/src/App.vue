@@ -9,6 +9,8 @@ const user = computed(() => authStore.user)
 
 const logout = () => {
   authStore.logout()
+  // 添加路由跳转到登录页面
+  window.location.href = '/login'
 }
 </script>
 
