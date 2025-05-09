@@ -1,5 +1,7 @@
 <div align="center">
 
+⚠️ 本项目由AI自动开发，仅用于AI开发体验和测试，所有bug与阿杆本人无关，出现问题属正常现象。请勿用于生产环境。
+
 # Nexus Tasks
 
 🚀 现代化的任务管理解决方案 | Modern Task Management Solution
